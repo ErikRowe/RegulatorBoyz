@@ -34,8 +34,5 @@ class cisBoyz(object):
         dyPreydt  =   alpha * yPrey - beta  * yPrey * yPred
         dyPreddt  = - gamma * yPred + delta * yPrey * yPred
         #
-        return [ dyPreydt, dyPreddt ]
-
-    
-        
+        return [ dyPreydt, dyPreddt ]    
         
