@@ -1,0 +1,1 @@
+print("Matte er kult")
