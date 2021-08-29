@@ -1,1 +1,0 @@
-print("Matte er kult")
