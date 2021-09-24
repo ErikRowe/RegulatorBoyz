@@ -25,7 +25,7 @@ def myModel(y, t):
     return [ dyPreydt, dyPreddt ]
 
 # define the initial condition
-y0 = [ 20, 5 ]
+y0 = [ 14.57, 1.31 ]
 
 # define the time points where the solution is computed
 n    = 100
